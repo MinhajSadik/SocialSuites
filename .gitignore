@@ -1,4 +1,6 @@
 # ignore golang related files
+go.mod
+.vscode
 *.mod
 *.sum
 *.a.out
